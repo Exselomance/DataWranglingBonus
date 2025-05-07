@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DataWranglingBonus/static/css/main.ea015367.css",
+    "main.js": "/DataWranglingBonus/static/js/main.bd76c32d.js",
+    "static/js/453.d4b44fcd.chunk.js": "/DataWranglingBonus/static/js/453.d4b44fcd.chunk.js",
+    "index.html": "/DataWranglingBonus/index.html",
+    "main.ea015367.css.map": "/DataWranglingBonus/static/css/main.ea015367.css.map",
+    "main.bd76c32d.js.map": "/DataWranglingBonus/static/js/main.bd76c32d.js.map",
+    "453.d4b44fcd.chunk.js.map": "/DataWranglingBonus/static/js/453.d4b44fcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea015367.css",
+    "static/js/main.bd76c32d.js"
+  ]
+}
